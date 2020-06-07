@@ -1,6 +1,8 @@
-# Ecoleta - Next Level Weeek
+<h1 align="center">
+  <image src="/web/src/assets/logo.svg" style="width: 50px" />
+</h1>
 
-# Technologies
+## Technologies
 
 This project was developed with the following technologies:
 
