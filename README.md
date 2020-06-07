@@ -1,6 +1,6 @@
-## Ecoleta - Next Level Weeek
+# Ecoleta - Next Level Weeek
 
-## :rocket: Technologies
+# Technologies
 
 This project was developed with the following technologies:
 
